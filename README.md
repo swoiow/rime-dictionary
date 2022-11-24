@@ -5,6 +5,8 @@
 
 ## 自用级 `pinyin_plus.dict.yaml`
 
+创建一个`extended`目录用于存放字典，并在配置中，将其引用，主要windows下路径用`\`，unix下路径用`/`
+
 ```yaml
 name: pinyin_plus
 version: "2022.11.22"
@@ -55,7 +57,7 @@ import_tables:
   - 搜狗拼音默认词库，无词频，[来源](https://pinyin.sogou.com/dict/)，其他细节见补充
 
 + `sougou.netword.dict.yaml`
-  - 搜狗拼音网络新词，无词频，[来源](https://pinyin.sogou.com/dict/)，其他细节见补充
+  - 搜狗拼音网络新词，无词频，[来源](https://pinyin.sogou.com/dict/detail/index/4)，其他细节见补充
 
 + `tsinghua.ocl.dict.yaml`
   - 清华大学开放中文词库，无词频，[来源](https://github.com/redguardtoo/pyim-tsinghua-dict)，见[项目](https://github.com/thunlp/THUOCL)
@@ -64,3 +66,7 @@ import_tables:
 ## 补充
 
 转换，工具，及其他见[分支](https://github.com/swoiow/rime-dictionary/tree/main)
+
+
+## TODO
+- [ ]使用Oxford作为蓝本
