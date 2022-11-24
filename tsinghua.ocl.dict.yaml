@@ -1,6 +1,6 @@
 ---
 name: tsinghua.ocl
-version: "2022.11.22"
+version: "2022.11.24"
 sort: by_weight
 use_preset_vocabulary: false
 # description: 清华大学开放中文词库数据
@@ -362,7 +362,7 @@ use_preset_vocabulary: false
 安达市	an da shi
 安达县	an da xian
 安达信	an da xin
-安地	an de
+安地	an di
 安得广厦千万间	an de guang sha qian wan jian
 安德拉德	an de la de
 安德雷斯	an de lei si
@@ -2045,7 +2045,7 @@ use_preset_vocabulary: false
 百足之虫	bai zu zhi chong
 百足之虫死而不僵	bai zu zhi chong si er bu jiang
 坝基	ba ji
-扒鸡	ba ji
+扒鸡	pa ji
 吧唧	ba ji
 把家	ba jia
 八家	ba jia
@@ -2070,13 +2070,13 @@ use_preset_vocabulary: false
 八角西街	ba jiao xi jie
 拔节	ba jie
 巴结	ba jie
-扒鸡块儿	ba ji kuai er
+扒鸡块儿	pa ji kuai er
 巴金	ba jin
 八进制	ba jin zhi
 八进制数字	ba jin zhi shu zi
 巴基斯坦古鲸	ba ji si tan gu jing
 巴戟天	ba ji tian
-扒鸡腿儿	ba ji tui er
+扒鸡腿儿	pa ji tui er
 把酒	ba jiu
 八九不离十	ba jiu bu li shi
 把酒话桑麻	ba jiu hua sang ma
@@ -2626,7 +2626,7 @@ use_preset_vocabulary: false
 爆炒	bao chao
 包抄	bao chao
 鲍超	bao chao
-爆炒地猴	bao chao de hou
+爆炒地猴	bao chao di hou
 宝钞胡同	bao chao hu tong
 爆炒肉片	bao chao rou pian
 爆炒田鸡	bao chao tian ji
@@ -2678,7 +2678,7 @@ use_preset_vocabulary: false
 宝刀不老	bao dao bu lao
 宝刀未老	bao dao wei lao
 包打天下	bao da tian xia
-薄地	bao de
+薄地	bao di
 报德	bao de
 保德	bao de
 保德路	bao de lu
@@ -2791,7 +2791,7 @@ use_preset_vocabulary: false
 包换	bao huan
 保皇	bao huang
 宝华山	bao hua shan
-保护地	bao hu de
+保护地	bao hu di
 保护方式	bao hu fang shi
 保护工业产权巴黎公约	bao hu gong ye chan quan ba li gong yue
 保护价	bao hu jia
@@ -3616,7 +3616,7 @@ use_preset_vocabulary: false
 北岗子	bei gang zi
 被告	bei gao
 北皋	bei gao
-被告住所地	bei gao zhu suo de
+被告住所地	bei gao zhu suo di
 悲歌	bei ge
 备耕	bei geng
 北宫	bei gong
@@ -3727,7 +3727,7 @@ use_preset_vocabulary: false
 北京大学	bei jing da xue
 北京大学西门	bei jing da xue xi men
 北京德恒律师事务所	bei jing de heng lv shi shi wu suo
-北京地坛公园	bei jing de tan gong yuan
+北京地坛公园	bei jing di tan gong yuan
 北京东路	bei jing dong lu
 北京东路外滩	bei jing dong lu wai tan
 北京动物园	bei jing dong wu yuan
@@ -7084,7 +7084,7 @@ use_preset_vocabulary: false
 不止	bu zhi
 不知	bu zhi
 不知不觉	bu zhi bu jue
-不知地之厚也	bu zhi de zhi hou ye
+不知地之厚也	bu zhi di zhi hou ye
 不知凡几	bu zhi fan ji
 不知好歹	bu zhi hao dai
 不知何处是他乡	bu zhi he chu shi ta xiang
@@ -7117,7 +7117,7 @@ use_preset_vocabulary: false
 不知为不知	bu zhi wei bu zhi
 不知下落	bu zhi xia luo
 不执行	bu zhi xing
-不知细叶谁裁出	bu zhi xi ye shei cai chu
+不知细叶谁裁出	bu zhi xi ye shui cai chu
 不值一驳	bu zhi yi bo
 不值一哂	bu zhi yi shen
 不知有汉	bu zhi you han
@@ -7198,7 +7198,7 @@ use_preset_vocabulary: false
 踩道	cai dao
 菜刀	cai dao
 财大气粗	cai da qi cu
-菜地	cai de
+菜地	cai di
 才德兼备	cai de jian bei
 彩灯	cai deng
 菜店	cai dian
@@ -7765,7 +7765,7 @@ use_preset_vocabulary: false
 参考码	can kao ma
 参考文档	can kao wen dang
 参考文献	can kao wen xian
-参考帧	can kao zheng
+参考帧	can kao zhen
 参考资料	can kao zi liao
 参考资源	can kao zi yuan
 残酷	can ku
@@ -7916,7 +7916,7 @@ use_preset_vocabulary: false
 操场	cao chang
 草场	cao chang
 草厂	cao chang
-草场地	cao chang de
+草场地	cao chang di
 草厂胡同	cao chang hu tong
 草场门	cao chang men
 草场坡	cao chang po
@@ -8002,7 +8002,7 @@ use_preset_vocabulary: false
 草莓慕斯	cao mei mu si
 草莓奶油蛋糕	cao mei nai you dan gao
 草莓舌	cao mei she
-草莓新地	cao mei xin de
+草莓新地	cao mei xin di
 草莓园	cao mei yuan
 草莓芝士饼	cao mei zhi shi bing
 草莓芝士蛋糕	cao mei zhi shi dan gao
@@ -8953,7 +8953,7 @@ use_preset_vocabulary: false
 长沙市城市桥梁安全管理条例	chang sha shi cheng shi qiao liang an quan guan li tiao li
 长沙世界之窗	chang sha shi jie zhi chuang
 长沙市劳动东路	chang sha shi lao dong dong lu
-长沙市征地补偿安置条例	chang sha shi zheng de bu chang an zhi tiao li
+长沙市征地补偿安置条例	chang sha shi zheng di bu chang an zhi tiao li
 长沙中大	chang sha zhong da
 常设	chang she
 长生	chang sheng
@@ -9128,7 +9128,7 @@ use_preset_vocabulary: false
 肠粘连	chang zhan lian
 唱针	chang zhen
 长征	chang zheng
-长征出发地	chang zheng chu fa de
+长征出发地	chang zheng chu fa di
 长征第一渡	chang zheng di yi du
 长征路	chang zheng lu
 长征桥	chang zheng qiao
@@ -9557,9 +9557,9 @@ use_preset_vocabulary: false
 超越职权	chao yue zhi quan
 炒玉米	chao yu mi
 超载	chao zai
-超长	chao zhang
-超长文本	chao zhang wen ben
-超长指令字	chao zhang zhi ling zi
+超长	chao chang
+超长文本	chao chang wen ben
+超长指令字	chao chang zhi ling zi
 炒珍珠鸡	chao zhen zhu ji
 炒榛子酱	chao zhen zi jiang
 超值	chao zhi
@@ -11431,7 +11431,7 @@ use_preset_vocabulary: false
 池座	chi zuo
 宠爱	chong ai
 崇安	chong an
-崇安地蜥	chong an de xi
+崇安地蜥	chong an di xi
 崇安寺	chong an si
 崇安县	chong an xian
 崇安斜鳞蛇	chong an xie lin she
@@ -11572,7 +11572,7 @@ use_preset_vocabulary: false
 重庆市科学技术普及条例	chong qing shi ke xue ji shu pu ji tiao li
 重庆市人民检察院第一分院	chong qing shi ren min jian cha yuan di yi fen yuan
 重庆市土地房屋权属登记条例	chong qing shi tu di fang wu quan shu deng ji tiao li
-重庆市征地补偿安置办法	chong qing shi zheng de bu chang an zhi ban fa
+重庆市征地补偿安置办法	chong qing shi zheng di bu chang an zhi ban fa
 重庆市职工生育保险暂行办法	chong qing shi zhi gong sheng yu bao xian zan xing ban fa
 重庆水煮鱼	chong qing shui zhu yu
 崇庆县	chong qing xian
@@ -15641,7 +15641,7 @@ use_preset_vocabulary: false
 叨叨	dao dao
 倒打一耙	dao da yi pa
 道德	dao de
-稻地	dao de
+稻地	dao di
 道德概论	dao de gai lun
 道德文章	dao de wen zhang
 道地	dao di
@@ -16340,7 +16340,7 @@ use_preset_vocabulary: false
 大新路口	da xin lu kou
 大辛庄	da xin zhuang
 大雄宝殿	da xiong bao dian
-大熊猫栖息地	da xiong mao qi xi de
+大熊猫栖息地	da xiong mao qi xi di
 大熊猫亚科	da xiong mao ya ke
 大溪头	da xi tou
 大修	da xiu
@@ -16586,23 +16586,23 @@ use_preset_vocabulary: false
 大做文章	da zuo wen zhang
 大足县	da zu xian
 德安	de an
-地安	de an
+地安	di an
 德昂	de ang
-地安门	de an men
-地奥心血康	de ao xin xue kang
-地奥心血康胶囊	de ao xin xue kang jiao nang
-地邦	de bang
+地安门	di an men
+地奥心血康	di ao xin xue kang
+地奥心血康胶囊	di ao xin xue kang jiao nang
+地邦	di bang
 德保	de bao
 德保矮马	de bao ai ma
 德保县公安局	de bao xian gong an ju
 得便	de bian
 德比贝	de bi bei
-地鳖	de bie
+地鳖	di bie
 得病	de bing
 得不偿失	de bu chang shi
 德才兼备	de cai jian bei
-地仓	de cang
-地藏庵	de cang an
+地仓	di cang
+地藏庵	di zang an
 德操	de cao
 德昌	de chang
 得逞	de cheng
@@ -16619,7 +16619,7 @@ use_preset_vocabulary: false
 得道多助失道寡助	de dao duo zhu shi dao gua zhu
 得道者多助	de dao zhe duo zhu
 德都	de dou
-地儿	de er
+地儿	di er
 德尔	de er
 德尔福	de er fu
 得而复失	de er fu shi
@@ -16628,13 +16628,13 @@ use_preset_vocabulary: false
 德妃	de fei
 得分	de fen
 德风	de feng
-地芬诺酯	de fen nuo zhi
-地肤子	de fu zi
+地芬诺酯	di fen nuo zhi
+地肤子	di fu zi
 德高望重	de gao wang zhong
-地高辛	de gao xin
-地高辛片	de gao xin pian
+地高辛	di gao xin
+地高辛片	di gao xin pian
 德格	de ge
-地埂	de geng
+地埂	di geng
 德国	de guo
 德国大众汽车集团	de guo da zhong qi che ji tuan
 德国短毛波音达	de guo duan mao bo yin da
@@ -16670,13 +16670,13 @@ use_preset_vocabulary: false
 得计	de ji
 得奖	de jiang
 得减主义	de jian zhu yi
-地节	de jie
+地节	di jie
 德基广场	de ji guang chang
 得劲	de jin
 得救	de jiu
 得克萨斯州	de ke sa si zhou
 得空	de kong
-地矿	de kuang
+地矿	di kuang
 德拉戈	de la ge
 得来全不费功夫	de lai quan bu fei gong fu
 德拉克洛瓦	de la ke luo wa
@@ -16684,7 +16684,7 @@ use_preset_vocabulary: false
 得力	de li
 德立	de li
 得脸	de lian
-地量	de liang
+地量	di liang
 德利马	de li ma
 德令哈市	de ling ha shi
 得陇望蜀	de long wang shu
@@ -16693,7 +16693,7 @@ use_preset_vocabulary: false
 德门蒂耶娃	de men di ye wa
 德棉	de mian
 德米欧	de mi ou
-地膜	de mo
+地膜	di mo
 得莫利炖活鱼	de mo li dun huo yu
 得莫利炖鱼	de mo li dun yu
 邓艾	deng ai
@@ -16774,7 +16774,7 @@ use_preset_vocabulary: false
 等价运算	deng jia yun suan
 邓家庄	deng jia zhuang
 等价转换	deng jia zhuan huan
-登记地国	deng ji de guo
+登记地国	deng ji di guo
 灯节	deng jie
 邓婕	deng jie
 登记国	deng ji guo
@@ -16920,7 +16920,7 @@ use_preset_vocabulary: false
 得饶人处且饶人	de rao ren chu qie rao ren
 德容	de rong
 得荣	de rong
-地三鲜	de san xian
+地三鲜	di san xian
 得胜	de sheng
 德胜	de sheng
 德胜村	de sheng cun
@@ -16946,25 +16946,25 @@ use_preset_vocabulary: false
 得失寸心知	de shi cun xin zhi
 得手	de shou
 得数	de shu
-地坛	de tan
-地坛东门	de tan dong men
-地坛西门	de tan xi men
+地坛	di tan
+地坛东门	di tan dong men
+地坛西门	di tan xi men
 得体	de ti
 德田	de tian
 得天独厚	de tian du hou
 得天下有道	de tian xia you dao
-地调处	de tiao chu
-地统计	de tong ji
+地调处	di tiao chu
+地统计	di tong ji
 得妥	de tuo
-地网	de wang
-地王大厦	de wang da sha
+地网	di wang
+地王大厦	di wang da sha
 德威	de wei
 得伟君尚律师事务所	de wei jun shang lv shi shi wu suo
 德文卷毛猫	de wen juan mao mao
-地窝堡	de wo bao
+地窝堡	di wo bao
 德沃金	de wo jin
 得悉	de xi
-地陷	de xian
+地陷	di xian
 得闲	de xian
 德性	de xing
 德行	de xing
@@ -16972,8 +16972,8 @@ use_preset_vocabulary: false
 德兴满族乡	de xing man zu xiang
 德兴市	de xing shi
 得心应手	de xin ying shou
-地西泮	de xi pan
-地西泮片	de xi pan pian
+地西泮	di xi pan
+地西泮片	di xi pan pian
 德雅路	de ya lu
 德阳市	de yang shi
 得宜	de yi
@@ -16983,7 +16983,7 @@ use_preset_vocabulary: false
 德意	de yi
 得意门生	de yi men sheng
 德银	de yin
-地应无酒泉	de ying wu jiu quan
+地应无酒泉	di ying wu jiu quan
 德艺双馨	de yi shuang xin
 得意忘形	de yi wang xing
 得意洋洋	de yi yang yang
@@ -17000,16 +17000,16 @@ use_preset_vocabulary: false
 德育	de yu
 德元	de yuan
 德园包子	de yuan bao zi
-地猿始祖种	de yuan shi zu zhong
+地猿始祖种	di yuan shi zu zhong
 得月楼	de yue lou
 德政	de zheng
 德政路	de zheng lu
 得志	de zhi
 德治	de zhi
 得知	de zhi
-地指国	de zhi guo
+地指国	di zhi guo
 得中国者得天下	de zhong guo zhe de tian xia
-德州扒鸡	de zhou ba ji
+德州扒鸡	de zhou pa ji
 德州路	de zhou lu
 德州市	de zhou shi
 得主	de zhu
@@ -19683,7 +19683,7 @@ use_preset_vocabulary: false
 窦建德	dou jian de
 豆浆	dou jiang
 豆酱	dou jiang
-豆角地	dou jiao de
+豆角地	dou jiao di
 豆秸	dou jie
 都锦生	dou jin sheng
 陡峻	dou jun
@@ -19795,7 +19795,7 @@ use_preset_vocabulary: false
 断层	duan ceng
 断肠	duan chang
 短长	duan chang
-段长度	duan chang du
+段长度	duan zhang du
 断肠人在天涯	duan chang ren zai tian ya
 短肠综合征	duan chang zong he zheng
 短秤	duan cheng
@@ -21623,7 +21623,7 @@ use_preset_vocabulary: false
 发达	fa da
 发带	fa dai
 发呆	fa dai
-伐地那非	fa de na fei
+伐地那非	fa di na fei
 发嗲	fa dia
 法典	fa dian
 发电	fa dian
@@ -21805,7 +21805,7 @@ use_preset_vocabulary: false
 法盲	fa mang
 发毛	fa mao
 发霉	fa mei
-罚没	fa mei
+罚没	fa mo
 发闷	fa men
 阀门	fa men
 法门	fa men
@@ -21827,7 +21827,7 @@ use_preset_vocabulary: false
 发难	fa nan
 犯案	fan an
 翻案	fan an
-反扒	fan ba
+反扒	fan pa
 反霸	fan ba
 反败为胜	fan bai wei sheng
 帆板	fan ban
@@ -23065,8 +23065,8 @@ use_preset_vocabulary: false
 法院	fa yuan
 法院编制法	fa yuan bian zhi fa
 法院程序	fa yuan cheng xu
-法院地	fa yuan de
-法院地法	fa yuan de fa
+法院地	fa yuan di
+法院地法	fa yuan di fa
 法院法医	fa yuan fa yi
 法院改革	fa yuan gai ge
 法院经审理查明	fa yuan jing shen li cha ming
@@ -24953,8 +24953,8 @@ use_preset_vocabulary: false
 妇道	fu dao
 辅导	fu dao
 福德	fu de
-富地	fu de
-扶地	fu de
+富地	fu di
+扶地	fu di
 福德村	fu de cun
 复得返自然	fu de fan zi ran
 赋得古原草送别	fu de gu yuan cao song bie
@@ -25024,7 +25024,7 @@ use_preset_vocabulary: false
 复方丹参	fu fang dan shen
 复方丹参滴丸	fu fang dan shen di wan
 复方丹参片	fu fang dan shen pian
-复方地芬诺酯片	fu fang de fen nuo zhi pian
+复方地芬诺酯片	fu fang di fen nuo zhi pian
 复方阿胶浆	fu fang e jiao jiang
 复方甘草合剂	fu fang gan cao he ji
 复方甘草口服溶液	fu fang gan cao kou fu rong ye
@@ -25223,7 +25223,7 @@ use_preset_vocabulary: false
 付家庄	fu jia zhuang
 辅机厂	fu ji chang
 父节点	fu jie dian
-负极接地	fu ji jie de
+负极接地	fu ji jie di
 附近	fu jin
 父进程	fu jin cheng
 福井	fu jing
@@ -26381,7 +26381,7 @@ use_preset_vocabulary: false
 干道	gan dao
 赶到	gan dao
 感到	gan dao
-甘地	gan de
+甘地	gan di
 感德	gan de
 干等	gan deng
 干掉	gan diao
@@ -26435,7 +26435,7 @@ use_preset_vocabulary: false
 岗村	gang cun
 冈村宁次	gang cun ning ci
 钢刀	gang dao
-刚地弓形虫	gang de gong xing chong
+刚地弓形虫	gang di gong xing chong
 岗地	gang di
 钢锭	gang ding
 扛鼎	gang ding
@@ -27630,9 +27630,9 @@ use_preset_vocabulary: false
 隔代遗传	ge dai yi chuan
 鸽蛋圆子	ge dan yuan zi
 歌德	ge de
-各地	ge de
+各地	ge di
 哥德巴赫猜想	ge de ba he cai xiang
-隔地犯	ge de fan
+隔地犯	ge di fan
 咯噔	ge deng
 各得其所	ge de qi suo
 割地	ge di
@@ -29775,8 +29775,8 @@ use_preset_vocabulary: false
 关键计算	guan jian ji suan
 关键路径	guan jian lu jing
 关键事件法	guan jian shi jian fa
-关键帧	guan jian zheng
-关键帧动画	guan jian zheng dong hua
+关键帧	guan jian zhen
+关键帧动画	guan jian zhen dong hua
 管教	guan jiao
 管界	guan jie
 官阶	guan jie
@@ -31687,7 +31687,7 @@ use_preset_vocabulary: false
 国有企业职工待业保险规定	guo you qi ye zhi gong dai ye bao xian gui ding
 过油肉	guo you rou
 过油肉拌面	guo you rou ban mian
-国有疑难可问谁	guo you yi nan ke wen shei
+国有疑难可问谁	guo you yi nan ke wen shui
 国有资本经营预算制度	guo you zi ben jing ying yu suan zhi du
 国有资产产权界定	guo you zi chan chan quan jie ding
 国有资产收益收缴管理办法	guo you zi chan shou yi shou jiao guan li ban fa
@@ -34315,7 +34315,7 @@ use_preset_vocabulary: false
 合同保险金额	he tong bao xian jin e
 合同承担	he tong cheng dan
 合同履行不能	he tong lv xing bu neng
-合同履行地	he tong lv xing de
+合同履行地	he tong lv xing di
 合同煤	he tong mei
 合同能源管理模式	he tong neng yuan guan li mo shi
 合同生效要件	he tong sheng xiao yao jian
@@ -34653,7 +34653,7 @@ use_preset_vocabulary: false
 红狐	hong hu
 红湖	hong hu
 红花	hong hua
-红花地	hong hua de
+红花地	hong hua di
 红花岗	hong hua gang
 红花黄	hong hua huang
 宏华集团	hong hua ji tuan
@@ -34947,7 +34947,7 @@ use_preset_vocabulary: false
 红土	hong tu
 宏图大略	hong tu da lve
 宏图大志	hong tu da zhi
-红土地	hong tu de
+红土地	hong tu di
 烘托	hong tuo
 红土坡	hong tu po
 红土山	hong tu shan
@@ -35546,11 +35546,11 @@ use_preset_vocabulary: false
 滑蛋牛肉	hua dan niu rou
 滑蛋虾仁	hua dan xia ren
 滑道	hua dao
-华地	hua de
+华地	hua di
 化德	hua de
 华灯	hua deng
 花灯	hua deng
-花地湾	hua de wan
+花地湾	hua di wan
 华电	hua dian
 桦甸市	hua dian shi
 桦甸县	hua dian xian
@@ -35812,11 +35812,11 @@ use_preset_vocabulary: false
 花甲	hua jia
 画家	hua jia
 华家池	hua jia chi
-花家地	hua jia de
-花家地北里	hua jia de bei li
-花家地南街	hua jia de nan jie
-花家地南里	hua jia de nan li
-花家地西里	hua jia de xi li
+花家地	hua jia di
+花家地北里	hua jia di bei li
+花家地南街	hua jia di nan jie
+花家地南里	hua jia di nan li
+花家地西里	hua jia di xi li
 华嘉胡同	hua jia hu tong
 花剑	hua jian
 华坚	hua jian
@@ -36249,7 +36249,7 @@ use_preset_vocabulary: false
 黄金储备	huang jin chu bei
 黄金村	huang jin cun
 黄金搭档	huang jin da dang
-黄金地	huang jin de
+黄金地	huang jin di
 黄金洞	huang jin dong
 黄金豆腐	huang jin dou fu
 黄金法则	huang jin fa ze
@@ -36356,7 +36356,7 @@ use_preset_vocabulary: false
 黄泥坝	huang ni ba
 黄泥磅	huang ni bang
 黄泥村	huang ni cun
-黄泥地	huang ni de
+黄泥地	huang ni di
 黄泥沟	huang ni gou
 黄泥湖	huang ni hu
 黄泥街	huang ni jie
@@ -37289,8 +37289,8 @@ use_preset_vocabulary: false
 胡村	hu cun
 虎胆	hu dan
 胡大一	hu da yi
-虎地	hu de
-湖地	hu de
+虎地	hu di
+湖地	hu di
 护堤	hu di
 胡底	hu di
 胡店	hu dian
@@ -37445,7 +37445,7 @@ use_preset_vocabulary: false
 回荡	hui dang
 回档	hui dang
 会当凌绝顶	hui dang ling jue ding
-灰地	hui de
+灰地	hui di
 惠帝	hui di
 回电	hui dian
 徽调	hui diao
@@ -38263,7 +38263,7 @@ use_preset_vocabulary: false
 婚姻	hun yin
 婚姻登记档案	hun yin deng ji dang an
 婚姻登记档案管理办法	hun yin deng ji dang an guan li ban fa
-婚姻登记地	hun yin deng ji de
+婚姻登记地	hun yin deng ji di
 婚姻登记工作暂行规范	hun yin deng ji gong zuo zan xing gui fan
 婚姻登记所	hun yin deng ji suo
 婚姻登记制度	hun yin deng ji zhi du
@@ -39515,7 +39515,7 @@ use_preset_vocabulary: false
 剑阁	jian ge
 间隔计时器	jian ge ji shi qi
 江二村	jiang er cun
-间隔帧	jian ge zheng
+间隔帧	jian ge zhen
 奖罚	jiang fa
 讲法	jiang fa
 奖罚分明	jiang fa fen ming
@@ -39699,7 +39699,7 @@ use_preset_vocabulary: false
 江南大学	jiang nan da xue
 江南馆街	jiang nan guan jie
 江南豪园	jiang nan hao yuan
-江南佳丽地	jiang nan jia li de
+江南佳丽地	jiang nan jia li di
 江南可采莲	jiang nan ke cai lian
 江南名城	jiang nan ming cheng
 江南名府	jiang nan ming fu
@@ -40739,7 +40739,7 @@ use_preset_vocabulary: false
 交道口南	jiao dao kou nan
 教导有方	jiao dao you fang
 交大商场	jiao da shang chang
-浇地	jiao de
+浇地	jiao di
 脚灯	jiao deng
 脚瞪	jiao deng
 搅得周天寒彻	jiao de zhou tian han che
@@ -42003,9 +42003,9 @@ use_preset_vocabulary: false
 街道	jie dao
 街道口	jie dao kou
 借刀杀人	jie dao sha ren
-接地	jie de
+接地	jie di
 街灯	jie deng
-接地系统	jie de xi tong
+接地系统	jie di xi tong
 揭底	jie di
 芥蒂	jie di
 结点	jie dian
@@ -43141,9 +43141,9 @@ use_preset_vocabulary: false
 进道若退	jin dao ruo tui
 金稻田路	jin dao tian lu
 进德	jin de
-金地格林小镇	jin de ge lin xiao zhen
-金地花园	jin de hua yuan
-金地集团	jin de ji tuan
+金地格林小镇	jin di ge lin xiao zhen
+金地花园	jin di hua yuan
+金地集团	jin di ji tuan
 进德修业	jin de xiu ye
 进抵	jin di
 禁地	jin di
@@ -46412,7 +46412,7 @@ use_preset_vocabulary: false
 巨大	ju da
 居大不易	ju da bu yi
 巨大儿	ju da er
-菊地凛子	ju de lin zi
+菊地凛子	ju di lin zi
 拒敌	ju di
 据点	ju dian
 聚丁烯	ju ding xi
@@ -46743,7 +46743,7 @@ use_preset_vocabulary: false
 军城镇	jun cheng zhen
 君臣佐使	jun chen zuo shi
 军刀	jun dao
-军地	jun de
+军地	jun di
 均等	jun deng
 军地坪街道	jun di ping jie dao
 军队	jun dui
@@ -47073,7 +47073,7 @@ use_preset_vocabulary: false
 菊园	ju yuan
 菊苑路	ju yuan lu
 枸橼酸氯米芬片	ju yuan suan lv mi fen pian
-枸橼酸西地那非	ju yuan suan xi de na fei
+枸橼酸西地那非	ju yuan suan xi di na fei
 桔园小区	ju yuan xiao qu
 橘园洲	ju yuan zhou
 橘园洲大桥	ju yuan zhou da qiao
@@ -47228,7 +47228,7 @@ use_preset_vocabulary: false
 开刀	kai dao
 开导	kai dao
 凯德	kai de
-凯地	kai de
+凯地	kai di
 开灯问题	kai deng wen ti
 开冻	kai dong
 开动	kai dong
@@ -47455,7 +47455,7 @@ use_preset_vocabulary: false
 开屏	kai ping
 开屏柴把桂鱼	kai ping chai ba gui yu
 开平碉楼与村落	kai ping diao lou yu cun luo
-开平非法批地案	kai ping fei fa pi de an
+开平非法批地案	kai ping fei fa pi di an
 开平市	kai ping shi
 开平县	kai ping xian
 开普顿	kai pu dun
@@ -48615,7 +48615,7 @@ use_preset_vocabulary: false
 孔繁森	kong fan sen
 空腹	kong fu
 孔府	kong fu
-孔府地锅一绝	kong fu de guo yi jue
+孔府地锅一绝	kong fu di guo yi jue
 孔府糕点	kong fu gao dian
 孔府家	kong fu jia
 空港服务	kong gang fu wu
@@ -48847,7 +48847,7 @@ use_preset_vocabulary: false
 控制语句	kong zhi yu ju
 控制站	kong zhi zhan
 空指针	kong zhi zhen
-控制帧	kong zhi zheng
+控制帧	kong zhi zhen
 空指针异常	kong zhi zhen yi chang
 控制字符	kong zhi zi fu
 控制总线	kong zhi zong xian
@@ -50019,7 +50019,7 @@ use_preset_vocabulary: false
 拦截器	lan jie qi
 蓝洁瑛	lan jie ying
 蓝鲸	lan jing
-懒觉	lan jue
+懒觉	lan jiao
 兰考	lan kao
 揽客	lan ke
 兰克	lan ke
@@ -50771,7 +50771,7 @@ use_preset_vocabulary: false
 勒令	le ling
 乐陵市	le ling shi
 乐陵县	le ling xian
-乐满地	le man de
+乐满地	le man di
 乐满家	le man jia
 乐民之乐者	le min zhi le zhe
 冷傲	leng ao
@@ -51915,7 +51915,7 @@ use_preset_vocabulary: false
 李大同双炊糕	li da tong shuang chui gao
 李大钊	li da zhao
 李大嘴	li da zui
-犁地	li de
+犁地	li di
 李德才	li de cai
 李德林	li de lin
 立德立言	li de li yan
@@ -52109,7 +52109,7 @@ use_preset_vocabulary: false
 李广	li guang
 黎光	li guang
 李光弼	li guang bi
-李光地	li guang de
+李光地	li guang di
 李光斗	li guang dou
 李光洁	li guang jie
 李广难封	li guang nan feng
@@ -54599,8 +54599,8 @@ use_preset_vocabulary: false
 龙胆泻肝丸	long dan xie gan wan
 龙的	long de
 隆德	long de
-龙地	long de
-龙地村	long de cun
+龙地	long di
+龙地村	long di cun
 龙灯	long deng
 龙灯乡	long deng xiang
 笼底	long di
@@ -54966,7 +54966,7 @@ use_preset_vocabulary: false
 漏光	lou guang
 陋规	lou gui
 篓蒿	lou hao
-蒌蒿满地芦芽短	lou hao man de lu ya duan
+蒌蒿满地芦芽短	lou hao man di lu ya duan
 剅河镇	lou he zhen
 镂花	lou hua
 漏检	lou jian
@@ -55124,7 +55124,7 @@ use_preset_vocabulary: false
 鹿导	lu dao
 陆道培	lu dao pei
 路德	lu de
-炉地	lu de
+炉地	lu di
 卢德铭	lu de ming
 陆德明	lu de ming
 路灯	lu deng
@@ -55760,7 +55760,7 @@ use_preset_vocabulary: false
 罗田路	luo tian lu
 洛汀新	luo ting xin
 落拓	luo tuo
-落魄	luo tuo
+落魄	luo po
 骆驼	luo tuo
 落拓不羁	luo tuo bu ji
 骆驼黄	luo tuo huang
@@ -56144,9 +56144,9 @@ use_preset_vocabulary: false
 氯氮卓	lv dan zhuo
 绿岛	lv dao
 绿岛家园	lv dao jia yuan
-绿地	lv de
+绿地	lv di
 绿灯	lv deng
-绿地世纪城	lv de shi ji cheng
+绿地世纪城	lv di shi ji cheng
 旅店	lv dian
 氯丁二烯	lv ding er xi
 律动	lv dong
@@ -56322,7 +56322,7 @@ use_preset_vocabulary: false
 履行	lv xing
 履行不能	lv xing bu neng
 履行迟延	lv xing chi yan
-履行地	lv xing de
+履行地	lv xing di
 履行法定职责	lv xing fa ding zhi ze
 旅行房车	lv xing fang che
 履行合同	lv xing he tong
@@ -56552,7 +56552,7 @@ use_preset_vocabulary: false
 麦岛	mai dao
 麦岛路	mai dao lu
 麦达斯	mai da si
-麦地	mai de
+麦地	mai di
 麦德乐	mai de le
 麦德龙	mai de long
 卖点	mai dian
@@ -56579,7 +56579,7 @@ use_preset_vocabulary: false
 卖乖	mai guai
 脉管复康胶囊	mai guan fu kang jiao nang
 卖官鬻爵	mai guan yu jue
-埋骨何须桑梓地	mai gu he xu sang zi de
+埋骨何须桑梓地	mai gu he xu sang zi di
 卖国	mai guo
 卖国求荣	mai guo qiu rong
 卖好	mai hao
@@ -57153,7 +57153,7 @@ use_preset_vocabulary: false
 冒充	mao chong
 冒充军人招摇撞骗罪	mao chong jun ren zhao yao zhuang pian zui
 毛刺	mao ci
-毛地出让	mao de chu rang
+毛地出让	mao di chu rang
 锚地	mao di
 锚点	mao dian
 毛滴虫	mao di chong
@@ -59450,7 +59450,7 @@ use_preset_vocabulary: false
 民俗文化村	min su wen hua cun
 民田路	min tian lu
 民团	min tuan
-米诺地尔	mi nuo de er
+米诺地尔	mi nuo di er
 米诺环素	mi nuo huan su
 民望	min wang
 民为邦本	min wei bang ben
@@ -60391,7 +60391,7 @@ use_preset_vocabulary: false
 母校	mu xiao
 木樨菜	mu xi cai
 木犀草苷	mu xi cao gan
-木樨地	mu xi de
+木樨地	mu xi di
 木屑	mu xie
 木犀糕	mu xi gao
 母性	mu xing
@@ -61624,7 +61624,7 @@ use_preset_vocabulary: false
 内销	nei xiao
 内消	nei xiao
 哪些	nei xie
-那些	nei xie
+那些	na xie
 内斜视	nei xie shi
 内心	nei xin
 内省	nei xing
@@ -61899,7 +61899,7 @@ use_preset_vocabulary: false
 鸟瞰	niao kan
 鸟类	niao lei
 鸟类贸易	niao lei mao yi
-鸟类栖息地	niao lei qi xi de
+鸟类栖息地	niao lei qi xi di
 尿量	niao liang
 尿流中断	niao liu zhong duan
 鸟笼	niao long
@@ -62489,7 +62489,7 @@ use_preset_vocabulary: false
 农大	nong da
 农贷	nong dai
 浓淡	nong dan
-农地承包经营权	nong de cheng bao jing ying quan
+农地承包经营权	nong di cheng bao jing ying quan
 弄蝶科	nong die ke
 浓度	nong du
 脓毒败血症	nong du bai xue zheng
@@ -62786,7 +62786,7 @@ use_preset_vocabulary: false
 奴役	nu yi
 怒族	nu zu
 努嘴	nu zui
-美女	nv
+美女	mei nv
 女伴	nv ban
 女扮男装	nv ban nan zhuang
 女宾	nv bin
@@ -65018,8 +65018,8 @@ use_preset_vocabulary: false
 葡达	pu da
 扑倒	pu dao
 普德村	pu de cun
-蒲地蓝消炎口服液	pu de lan xiao yan kou fu ye
-蒲地蓝消炎片	pu de lan xiao yan pian
+蒲地蓝消炎口服液	pu di lan xiao yan kou fu ye
+蒲地蓝消炎片	pu di lan xiao yan pian
 铺垫	pu dian
 浦电路	pu dian lu
 普跌	pu die
@@ -66405,7 +66405,7 @@ use_preset_vocabulary: false
 巧克力沙司	qiao ke li sha si
 巧克力甜甜圈	qiao ke li tian tian quan
 巧克力小蛋糕	qiao ke li xiao dan gao
-巧克力新地	qiao ke li xin de
+巧克力新地	qiao ke li xin di
 巧克力芝士蛋糕	qiao ke li zhi shi dan gao
 巧克力中毒	qiao ke li zhong du
 桥孔	qiao kong
@@ -71748,7 +71748,7 @@ use_preset_vocabulary: false
 撒旦	sa dan
 萨达特	sa da te
 萨德尔	sa de er
-萨地克于孜乡	sa de ke yu zi xiang
+萨地克于孜乡	sa di ke yu zi xiang
 萨迪	sa di
 萨顶顶	sa ding ding
 撒豆成兵	sa dou cheng bing
@@ -71973,7 +71973,7 @@ use_preset_vocabulary: false
 桑蚕	sang can
 丧胆	sang dan
 桑德	sang de
-桑地诺	sang de nuo
+桑地诺	sang di nuo
 三个臭皮匠	san ge chou pi jiang
 三给村	san gei cun
 三更	san geng
@@ -72200,7 +72200,7 @@ use_preset_vocabulary: false
 三里亭小区	san li ting xiao qu
 三里屯	san li tun
 三六九等	san liu jiu deng
-霰粒肿	san li zhong
+霰粒肿	xian li zhong
 三里庄	san li zhuang
 三龙村	san long cun
 散乱	san luan
@@ -72572,7 +72572,7 @@ use_preset_vocabulary: false
 色带	se dai
 色胆	se dan
 色胆包天	se dan bao tian
-色地乡	se de xiang
+色地乡	se di xiang
 色调	se diao
 色调分离	se diao fen li
 色度	se du
@@ -73066,13 +73066,13 @@ use_preset_vocabulary: false
 上大垅	shang da long
 上当	shang dang
 伤悼	shang dao
-上地	shang de
+上地	shang di
 上德	shang de
 尚德路	shang de lu
 尚德门	shang de men
-上地南路	shang de nan lu
+上地南路	shang di nan lu
 上等	shang deng
-上地七街	shang de qi jie
+上地七街	shang di qi jie
 上帝	shang di
 商店	shang dian
 上店	shang dian
@@ -74448,14 +74448,14 @@ use_preset_vocabulary: false
 社会主义学院	she hui zhu yi xue yuan
 设或	she huo
 社火	she huo
-谁持彩练当空舞	shei chi cai lian dang kong wu
-谁敢横刀立马	shei gan heng dao li ma
-谁料	shei liao
-谁人	shei ren
-谁是谁非	shei shi shei fei
-谁言寸草心	shei yan cun cao xin
-谁知	shei zhi
-谁知盘中餐	shei zhi pan zhong can
+谁持彩练当空舞	shui chi cai lian dang kong wu
+谁敢横刀立马	shui gan heng dao li ma
+谁料	shui liao
+谁人	shui ren
+谁是谁非	shui shi shui fei
+谁言寸草心	shui yan cun cao xin
+谁知	shui zhi
+谁知盘中餐	shui zhi pan zhong can
 社稷	she ji
 射击	she ji
 涉及	she ji
@@ -76760,7 +76760,7 @@ use_preset_vocabulary: false
 试看	shi kan
 石康	shi kang
 市看守所	shi kan shou suo
-试看天下谁能敌	shi kan tian xia shei neng di
+试看天下谁能敌	shi kan tian xia shui neng di
 蚀刻	shi ke
 食客	shi ke
 石刻	shi ke
@@ -78988,9 +78988,9 @@ use_preset_vocabulary: false
 疏导	shu dao
 树倒猢狲散	shu dao hu sun san
 树大招风	shu da zhao feng
-属地	shu de
+属地	shu di
 树德	shu de
-属地管辖权	shu de guan xia quan
+属地管辖权	shu di guan xia quan
 树德里	shu de li
 树敌	shu di
 熟地	shu di
@@ -79782,7 +79782,7 @@ use_preset_vocabulary: false
 数据预处理	shu ju yu chu li
 数据约束	shu ju yue shu
 数据运营	shu ju yun ying
-数据帧	shu ju zheng
+数据帧	shu ju zhen
 数据整理	shu ju zheng li
 数据值	shu ju zhi
 数据质量	shu ju zhi liang
@@ -81563,7 +81563,7 @@ use_preset_vocabulary: false
 素淡	su dan
 苏丹尼耶	su dan ni ye
 苏打水	su da shui
-苏地	su de
+苏地	su di
 宿敌	su di
 速递	su di
 苏堤	su di
@@ -81627,7 +81627,7 @@ use_preset_vocabulary: false
 隧道北	sui dao bei
 隧道六线	sui dao liu xian
 隧道南	sui dao nan
-随地	sui de
+随地	sui di
 绥德	sui de
 隧洞	sui dong
 穗东街	sui dong jie
@@ -81989,7 +81989,7 @@ use_preset_vocabulary: false
 锁骨上窝	suo gu shang wo
 锁骨下动脉	suo gu xia dong mai
 锁骨下静脉	suo gu xia jing mai
-索还	suo hai
+索还	suo huan
 索贿	suo hui
 索价	suo jia
 索家坟	suo jia fen
@@ -83781,7 +83781,7 @@ use_preset_vocabulary: false
 填补	tian bu
 天补	tian bu
 天不假年	tian bu jia nian
-天不怕地不怕	tian bu pa de bu pa
+天不怕地不怕	tian bu pa di bu pa
 恬不知耻	tian bu zhi chi
 天不作美	tian bu zuo mei
 甜菜	tian cai
@@ -83885,7 +83885,7 @@ use_preset_vocabulary: false
 天海	tian hai
 田海蓉	tian hai rong
 天海佑希	tian hai you xi
-填海造地	tian hai zao de
+填海造地	tian hai zao di
 天旱	tian han
 田汉	tian han
 天寒地冻	tian han di dong
@@ -84292,7 +84292,7 @@ use_preset_vocabulary: false
 天香云外飘	tian xiang yun wai piao
 天仙藤	tian xian teng
 田仙峪村	tian xian yu cun
-天下谁人不识君	tian xia shei ren bu shi jun
+天下谁人不识君	tian xia shui ren bu shi jun
 天下太平	tian xia tai ping
 天下为公	tian xia wei gong
 天下无敌	tian xia wu di
@@ -89069,7 +89069,7 @@ use_preset_vocabulary: false
 唯利是图	wei li shi tu
 惟利是图	wei li shi tu
 威利斯吉普车	wei li si ji pu che
-未利用地	wei li yong de
+未利用地	wei li yong di
 为吏之道	wei li zhi dao
 围拢	wei long
 危楼	wei lou
@@ -89215,7 +89215,7 @@ use_preset_vocabulary: false
 魏善庄	wei shan zhuang
 为善最乐	wei shan zui le
 威慑	wei she
-为谁辛苦为谁甜	wei shei xin ku wei shei tian
+为谁辛苦为谁甜	wei shui xin ku wei shui tian
 委身	wei shen
 尾声	wei sheng
 为生	wei sheng
@@ -91320,7 +91320,7 @@ use_preset_vocabulary: false
 乌石村	wu shi cun
 五十而知天命	wu shi er zhi tian ming
 五十六中	wu shi liu zhong
-五十亩地	wu shi mu de
+五十亩地	wu shi mu di
 物是人非	wu shi ren fei
 物是人非事事休	wu shi ren fei shi shi xiu
 无事生非	wu shi sheng fei
@@ -92231,7 +92231,7 @@ use_preset_vocabulary: false
 先导	xian dao
 贤德	xian de
 显得	xian de
-仙地	xian de
+仙地	xian di
 险地	xian di
 贤弟	xian di
 献帝	xian di
@@ -92252,7 +92252,7 @@ use_preset_vocabulary: false
 线段数	xian duan shu
 线段树合并	xian duan shu he bing
 线段相交	xian duan xiang jiao
-弦断有谁听	xian duan you shei ting
+弦断有谁听	xian duan you shui ting
 先睹为快	xian du wei kuai
 险恶	xian e
 限额	xian e
@@ -93709,7 +93709,7 @@ use_preset_vocabulary: false
 萧道应	xiao dao ying
 晓得	xiao de
 小灯	xiao deng
-小地窝堡	xiao de wo bao
+小地窝堡	xiao di wo bao
 小弟	xiao di
 小店	xiao dian
 小调	xiao diao
@@ -94849,7 +94849,7 @@ use_preset_vocabulary: false
 西北部	xi bei bu
 西北村	xi bei cun
 西北大学	xi bei da xue
-西北地	xi bei de
+西北地	xi bei di
 西北饭店	xi bei fan dian
 西北国棉一厂	xi bei guo mian yi chang
 西北凉皮	xi bei liang pi
@@ -94950,11 +94950,11 @@ use_preset_vocabulary: false
 西大新区	xi da xin qu
 西大营村	xi da ying cun
 西大庄	xi da zhuang
-隙地	xi de
+隙地	xi di
 习得	xi de
 喜德	xi de
 西德长毛兔	xi de chang mao tu
-西地兰	xi de lan
+西地兰	xi di lan
 熄灯	xi deng
 西登	xi deng
 洗涤	xi di
@@ -95469,7 +95469,7 @@ use_preset_vocabulary: false
 西红柿	xi hong shi
 西红柿炒蛋	xi hong shi chao dan
 西红柿牛肉汤	xi hong shi niu rou tang
-西后地	xi hou de
+西后地	xi hou di
 西湖	xi hu
 溪湖	xi hu
 西画	xi hua
@@ -95858,7 +95858,7 @@ use_preset_vocabulary: false
 信达资产	xin da zi chan
 信达资产管理公司	xin da zi chan guan li gong si
 心得	xin de
-新地	xin de
+新地	xin di
 新德	xin de
 辛德勒	xin de lei
 新低	xin di
@@ -95903,8 +95903,8 @@ use_preset_vocabulary: false
 新二中	xin er zhong
 新法	xin fa
 新发村	xin fa cun
-新发地	xin fa de
-新发地桥北	xin fa de qiao bei
+新发地	xin fa di
+新发地桥北	xin fa di qiao bei
 新发路	xin fa lu
 心烦	xin fan
 信访	xin fang
@@ -96348,7 +96348,7 @@ use_preset_vocabulary: false
 兴盛	xing sheng
 兴胜	xing sheng
 兴盛街	xing sheng jie
-姓甚名谁	xing shen ming shei
+姓甚名谁	xing shen ming shui
 行时	xing shi
 省视	xing shi
 幸事	xing shi
@@ -96452,7 +96452,7 @@ use_preset_vocabulary: false
 兴味	xing wei
 行为	xing wei
 兴卫	xing wei
-行为地法	xing wei de fa
+行为地法	xing wei di fa
 行为动画	xing wei dong hua
 性违法	xing wei fa
 行为犯	xing wei fan
@@ -96754,7 +96754,7 @@ use_preset_vocabulary: false
 新集	xin ji
 新基	xin ji
 薪甲	xin jia
-辛家地	xin jia de
+辛家地	xin jia di
 新佳乐	xin jia le
 辛家庙	xin jia miao
 心尖	xin jian
@@ -98909,7 +98909,7 @@ use_preset_vocabulary: false
 徐达	xu da
 絮叨	xu dao
 许德珩	xu de hang
-许地山	xu de shan
+许地山	xu di shan
 蓄电池厂	xu dian chi chang
 蓄电池盖	xu dian chi gai
 虚电路	xu dian lu
@@ -98961,7 +98961,7 @@ use_preset_vocabulary: false
 雪蛋	xue dan
 穴道	xue dao
 学道街	xue dao jie
-雪地	xue de
+雪地	xue di
 雪顶咖啡	xue ding ka fei
 薛丁山	xue ding shan
 血窦	xue dou
@@ -99465,7 +99465,7 @@ use_preset_vocabulary: false
 序列密码	xu lie mi ma
 序列图	xu lie tu
 序列型	xu lie xing
-序列帧	xu lie zheng
+序列帧	xu lie zhen
 徐林	xu lin
 徐陵	xu ling
 徐柳	xu liu
@@ -100382,7 +100382,7 @@ use_preset_vocabulary: false
 洋埭	yang dai
 洋埭村	yang dai cun
 杨大明	yang da ming
-样地	yang de
+样地	yang di
 杨得志	yang de zhi
 阳翟	yang di
 阳电	yang dian
@@ -102294,7 +102294,7 @@ use_preset_vocabulary: false
 液氮	ye dan
 液氮加速	ye dan jia su
 椰岛鹿龟酒	ye dao lu gui jiu
-野地	ye de
+野地	ye di
 叶德辉	ye de hui
 页调出	ye diao chu
 页调入	ye diao ru
@@ -102574,7 +102574,7 @@ use_preset_vocabulary: false
 叶宅	ye zhai
 夜战	ye zhan
 野战	ye zhan
-页帧	ye zheng
+页帧	ye zhen
 野雉	ye zhi
 椰汁	ye zhi
 椰汁板兰糕	ye zhi ban lan gao
@@ -103636,8 +103636,8 @@ use_preset_vocabulary: false
 引导页面	yin dao ye mian
 引导装入程序	yin dao zhuang ru cheng xu
 阴德	yin de
-印地车赛	yin de che sai
-银地家园	yin de jia yuan
+印地车赛	yin di che sai
+银地家园	yin di jia yuan
 阴蒂	yin di
 阴电	yin dian
 印第安纳州	yin di an na zhou
@@ -103750,7 +103750,7 @@ use_preset_vocabulary: false
 应当判处有期徒刑	ying dang pan chu you qi tu xing
 应答如流	ying da ru liu
 应得	ying de
-营地	ying de
+营地	ying di
 赢得	ying de
 英德红茶	ying de hong cha
 英德市	ying de shi
@@ -104531,7 +104531,7 @@ use_preset_vocabulary: false
 音频流	yin pin liu
 音频驱动	yin pin qu dong
 音频视频	yin pin shi pin
-音频数据库	yin pin shu ju ku
+音频数据库	yin pin shuo ju ku
 音频预处理	yin pin yu chu li
 饮泣	yin qi
 银器	yin qi
@@ -107609,7 +107609,7 @@ use_preset_vocabulary: false
 御城	yu cheng
 鱼城	yu cheng
 御成败式目	yu cheng bai shi mu
-禹城扒鸡	yu cheng ba ji
+禹城扒鸡	yu cheng pa ji
 玉成村	yu cheng cun
 庾澄庆	yu cheng qing
 禹城市	yu cheng shi
@@ -108676,7 +108676,7 @@ use_preset_vocabulary: false
 韵致	yun zhi
 允执厥中	yun zhi jue zhong
 云中白鹤	yun zhong bai he
-云中谁寄锦书来	yun zhong shei ji jin shu lai
+云中谁寄锦书来	yun zhong shui ji jin shu lai
 运转	yun zhuan
 云主机	yun zhu ji
 允准	yun zhun
@@ -109009,7 +109009,7 @@ use_preset_vocabulary: false
 语言发育障碍	yu yan fa yu zhang ai
 育秧	yu yang
 虞洋	yu yang
-渔阳鼙鼓动地来	yu yang pi gu dong de lai
+渔阳鼙鼓动地来	yu yang pi gu dong di lai
 鱼羊鲜	yu yang xian
 欲扬先抑	yu yang xian yi
 语言环境	yu yan huan jing
@@ -109245,7 +109245,7 @@ use_preset_vocabulary: false
 在此一举	zai ci yi ju
 在党	zai dang
 栽倒	zai dao
-在地愿为连理枝	zai de yuan wei lian li zhi
+在地愿为连理枝	zai di yuan wei lian li zhi
 在洞庭一湖	zai dong ting yi hu
 在读	zai du
 再度	zai du
@@ -110057,7 +110057,7 @@ use_preset_vocabulary: false
 战刀	zhan dao
 栈道	zhan dao
 占道经营	zhan dao jing ying
-展地	zhan de
+展地	zhan di
 战地	zhan di
 占地	zhan di
 站点导航	zhan dian dao hang
@@ -110137,7 +110137,7 @@ use_preset_vocabulary: false
 樟茶鸭子	zhang cha ya zi
 张槎医院	zhang cha yi yuan
 章程	zhang cheng
-长程	zhang cheng
+长程	chang cheng
 张承	zhang cheng
 张承志	zhang cheng zhi
 张驰	zhang chi
@@ -110201,7 +110201,7 @@ use_preset_vocabulary: false
 张范	zhang fan
 长房	zhang fang
 账房	zhang fang
-长方	zhang fang
+长方	chang fang
 张坊	zhang fang
 张钫	zhang fang
 张方平	zhang fang ping
@@ -110424,7 +110424,7 @@ use_preset_vocabulary: false
 张可颐	zhang ke yi
 张口	zhang kou
 张口结舌	zhang kou jie she
-长款	zhang kuan
+长款	chang kuan
 账款	zhang kuan
 张狂	zhang kuang
 张葵	zhang kui
@@ -110562,7 +110562,7 @@ use_preset_vocabulary: false
 长人馄饨	zhang ren hun tun
 张榕	zhang rong
 张荣华	zhang rong hua
-长绒棉	zhang rong mian
+长绒棉	chang rong mian
 张荣明	zhang rong ming
 张锐	zhang rui
 张瑞芳	zhang rui fang
@@ -110673,7 +110673,7 @@ use_preset_vocabulary: false
 张炜	zhang wei
 张卫	zhang wei
 张位	zhang wei
-长尾地佛法僧	zhang wei de fo fa seng
+长尾地佛法僧	zhang wei di fo fa seng
 张维华	zhang wei hua
 张卫健	zhang wei jian
 张伟平	zhang wei ping
@@ -110712,7 +110712,7 @@ use_preset_vocabulary: false
 张宪	zhang xian
 张弦	zhang xian
 张先	zhang xian
-长项	zhang xiang
+长项	chang xiang
 长相	zhang xiang
 长巷	zhang xiang
 长享	zhang xiang
@@ -111616,7 +111616,7 @@ use_preset_vocabulary: false
 遮挡	zhe dang
 浙大西溪校区	zhe da xi xi xiao qu
 浙大紫金港校区	zhe da zi jin gang xiao qu
-着地	zhe de
+着地	zhe di
 折叠	zhe die
 遮断	zhe duan
 这儿	zhe er
@@ -111813,14 +111813,14 @@ use_preset_vocabulary: false
 征兵	zheng bing
 郑伯克段于鄢	zheng bo ke duan yu yan
 正步	zheng bu
-帧布局	zheng bu ju
+帧布局	zhen bu ju
 正餐	zheng can
 政策	zheng ce
 政策面	zheng ce mian
 政策性关闭破产	zheng ce xing guan bi po chan
 政策性税收筹划	zheng ce xing shui shou chou hua
 政策与模式	zheng ce yu mo shi
-帧差法	zheng cha fa
+帧差法	zhen cha fa
 正柴胡饮	zheng chai hu yin
 正柴胡饮颗粒	zheng chai hu yin ke li
 正常	zheng chang
@@ -111857,7 +111857,7 @@ use_preset_vocabulary: false
 政党	zheng dang
 蒸蛋糕	zheng dan gao
 正道	zheng dao
-征地	zheng de
+征地	zheng di
 政敌	zheng di
 整地	zheng di
 整点	zheng dian
@@ -111869,10 +111869,10 @@ use_preset_vocabulary: false
 征订	zheng ding
 正定	zheng ding
 正丁醇	zheng ding chun
-帧定位	zheng ding wei
+帧定位	zhen ding wei
 正东	zheng dong
 郑洞国	zheng dong guo
-帧动画	zheng dong hua
+帧动画	zhen dong hua
 整董镇	zheng dong zhen
 争斗	zheng dou
 正斗	zheng dou
@@ -111901,7 +111901,7 @@ use_preset_vocabulary: false
 整风	zheng feng
 争风吃醋	zheng feng chi cu
 郑凤荣	zheng feng rong
-帧封装	zheng feng zhuang
+帧封装	zhen feng zhuang
 政府	zheng fu
 整复	zheng fu
 正负	zheng fu
@@ -111926,7 +111926,7 @@ use_preset_vocabulary: false
 征稿	zheng gao
 蒸糕	zheng gao
 整个	zheng ge
-帧格式	zheng ge shi
+帧格式	zhen ge shi
 正宫	zheng gong
 政工	zheng gong
 争购	zheng gou
@@ -111975,13 +111975,13 @@ use_preset_vocabulary: false
 郑家磨村	zheng jia mo cun
 政见	zheng jian
 证件	zheng jian
-帧间编码	zheng jian bian ma
+帧间编码	zhen jian bian ma
 蒸江团	zheng jiang tuan
 证监会	zheng jian hui
 证件识别	zheng jian shi bie
-帧检验序列	zheng jian yan xu lie
-帧间压缩	zheng jian ya suo
-帧间预测	zheng jian yu ce
+帧检验序列	zhen jian yan xu lie
+帧间压缩	zhen jian ya suo
+帧间预测	zhen jian yu ce
 蒸饺	zheng jiao
 征剿	zheng jiao
 政教	zheng jiao
@@ -112017,7 +112017,7 @@ use_preset_vocabulary: false
 正课	zheng ke
 政客	zheng ke
 郑坑村	zheng keng cun
-帧控制字段	zheng kong zhi zi duan
+帧控制字段	zhen kong zhi zi duan
 整垮	zheng kua
 正理	zheng li
 整理	zheng li
@@ -112041,7 +112041,7 @@ use_preset_vocabulary: false
 争论	zheng lun
 争论点	zheng lun dian
 蒸鹿尾儿	zheng lu wei er
-帧率	zheng lv
+帧率	zhen lv
 郑律成	zheng lv cheng
 整嘛	zheng ma
 正门	zheng men
@@ -112059,8 +112059,8 @@ use_preset_vocabulary: false
 正南	zheng nan
 蒸南瓜	zheng nan gua
 正难则反	zheng nan ze fan
-帧内编码	zheng nei bian ma
-帧内压缩	zheng nei ya suo
+帧内编码	zhen nei bian ma
+帧内压缩	zhen nei ya suo
 狰狞	zheng ning
 正宁	zheng ning
 郑宁	zheng ning
@@ -112073,7 +112073,7 @@ use_preset_vocabulary: false
 正片叠加	zheng pian die jia
 征聘	zheng pin
 正品	zheng pin
-帧频	zheng pin
+帧频	zhen pin
 正平	zheng ping
 政平	zheng ping
 蒸气	zheng qi
@@ -112198,7 +112198,7 @@ use_preset_vocabulary: false
 整宿	zheng su
 整肃	zheng su
 政肃路	zheng su lu
-帧速率	zheng su lv
+帧速率	zhen su lv
 正泰电器	zheng tai dian qi
 正态分布	zheng tai fen bu
 政坛	zheng tan
@@ -112220,7 +112220,7 @@ use_preset_vocabulary: false
 证停	zheng ting
 整体失效	zheng ti shi xiao
 正统	zheng tong
-帧同步	zheng tong bu
+帧同步	zhen tong bu
 政通路	zheng tong lu
 政通人和	zheng tong ren he
 正通顺街	zheng tong shun jie
@@ -113952,7 +113952,7 @@ use_preset_vocabulary: false
 重彩	zhong cai
 仲裁	zhong cai
 仲裁裁决	zhong cai cai jue
-仲裁地	zhong cai de
+仲裁地	zhong cai di
 仲裁第三人制度	zhong cai di san ren zhi du
 仲裁规则	zhong cai gui ze
 仲裁机构	zhong cai ji gou
@@ -114101,7 +114101,7 @@ use_preset_vocabulary: false
 中俄续勘喀什噶尔界约	zhong e xu kan ka shi ga er jie yue
 重罚	zhong fa
 重发	zhong fa
-重法地法	zhong fa de fa
+重法地法	zhong fa di fa
 中幡	zhong fan
 中饭	zhong fan
 中房	zhong fang
@@ -114400,8 +114400,8 @@ use_preset_vocabulary: false
 重华	zhong hua
 中华按蚊	zhong hua an wen
 中华村	zhong hua cun
-中华地鳖	zhong hua de bie
-中华地鳖虫	zhong hua de bie chong
+中华地鳖	zhong hua di bie
+中华地鳖虫	zhong hua di bie chong
 中华对角羚	zhong hua dui jiao ling
 中华儿女多奇志	zhong hua er nv duo qi zhi
 中华法系	zhong hua fa xi
@@ -114556,7 +114556,7 @@ use_preset_vocabulary: false
 中华新路	zhong hua xin lu
 中化岩土	zhong hua yan tu
 中华药膳	zhong hua yao shan
-中华真地鳖	zhong hua zhen de bie
+中华真地鳖	zhong hua zhen di bie
 重绘	zhong hui
 钟会	zhong hui
 忠魂	zhong hun
@@ -115759,8 +115759,8 @@ use_preset_vocabulary: false
 装载	zhuang zai
 庄则栋	zhuang ze dong
 撞针	zhuang zhen
-装帧	zhuang zheng
-装帧流通人民币管理办法	zhuang zheng liu tong ren min bi guan li ban fa
+装帧	zhuang zhen
+装帧流通人民币管理办法	zhuang zhen liu tong ren min bi guan li ban fa
 状纸	zhuang zhi
 壮志	zhuang zhi
 装置	zhuang zhi
@@ -116783,7 +116783,7 @@ use_preset_vocabulary: false
 注射用玻璃酸酶	zhu she yong bo li suan mei
 注射用重组人生长激素	zhu she yong chong zu ren sheng zhang ji su
 注射用促皮质素	zhu she yong cu pi zhi su
-注射用夫西地酸钠	zhu she yong fu xi de suan na
+注射用夫西地酸钠	zhu she yong fu xi di suan na
 注射用尿激酶	zhu she yong niao ji mei
 注射用泮托拉唑钠	zhu she yong pan tuo la zuo na
 注射用青霉素钠	zhu she yong qing mei su na
@@ -116968,7 +116968,7 @@ use_preset_vocabulary: false
 主营	zhu ying
 朱缨	zhu ying
 祝英台	zhu ying tai
-主营业地	zhu ying ye de
+主营业地	zhu ying ye di
 主营业务	zhu ying ye wu
 注意增强	zhu yi zeng qiang
 注意障碍	zhu yi zhang ai
@@ -117041,7 +117041,7 @@ use_preset_vocabulary: false
 著者	zhu zhe
 助阵	zhu zhen
 主政	zhu zheng
-逐帧动画	zhu zheng dong hua
+逐帧动画	zhu zhen dong hua
 竹纸	zhu zhi
 主枝	zhu zhi
 主治	zhu zhi
@@ -118554,7 +118554,7 @@ use_preset_vocabulary: false
 最小化	zui xiao hua
 最小环	zui xiao huan
 最小宽度	zui xiao kuan du
-最小离地间隙	zui xiao li de jian xi
+最小离地间隙	zui xiao li di jian xi
 最小路径	zui xiao lu jing
 最小路径覆盖	zui xiao lu jing fu gai
 最小权匹配	zui xiao quan pi pei
@@ -118735,7 +118735,7 @@ use_preset_vocabulary: false
 作答	zuo da
 坐待	zuo dai
 坐等	zuo deng
-坐地日行八万里	zuo de ri xing ba wan li
+坐地日行八万里	zuo di ri xing ba wan li
 坐垫	zuo dian
 坐地分赃	zuo di fen zang
 做东	zuo dong
